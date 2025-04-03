@@ -1,0 +1,25 @@
+* {
+    margin: 0px 0px;
+    text-decoration: none;
+    font-style: normal;
+    color: black;
+}
+
+.navBar {
+    width: 100%;
+    height: 50px;
+    background-color: aquamarine;
+    display: flex;
+    justify-content:  center;
+    align-items: center;
+}
+
+.changePage {
+    width: 100px;
+    height: 20px;
+    background-color: brown;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
